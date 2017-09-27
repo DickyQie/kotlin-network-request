@@ -1,4 +1,4 @@
-# kotlin for android----------MVP模式下（OKHttp和 Retrofit+RxJava）网络请求的两种实现方式 
+## kotlin for android----------MVP模式下（OKHttp和 Retrofit+RxJava）网络请求的两种实现方式 
  <p>今天要说的干货是：以Kotlin，在MVP模式下（OKHttp和 Retrofit+RxJava）网络请求两种实现方式的一个小案例，希望对大家有所帮助，效果图：</p> 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img alt="" src="http://images2017.cnblogs.com/blog/1041439/201708/1041439-20170830171003530-87916400.gif"></p> 
 <p>&nbsp;<br> Retrofit是Square公司开发的一款针对Android网络请求的一个当前很流行的网络请求库。可参考博客看详细介绍：<a href="http://www.cnblogs.com/zhangqie/p/6368208.html" rel="nofollow">Android开发之Retrofit+RxJava的使用</a></p> 
